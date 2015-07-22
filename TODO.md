@@ -1,0 +1,2 @@
+- Factory girl for mocks
+- Write tests and code
